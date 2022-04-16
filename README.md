@@ -1,4 +1,4 @@
 # Slime
-I just want to make a game. How hard can it be
 
-*Spoiler:<br>I couldn't do it*
+A small game showcasing the mechanics I made for my platformer game<br>
+the entire game was written in c# using MonoDevelop(foremerly known as XNA)
